@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1792410205 source:c:\users\jerom\onedrive\bureau\c\v4_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1792580989 source:c:\users\jerom\onedrive\bureau\c\=projet=\v4_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
